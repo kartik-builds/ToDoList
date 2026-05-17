@@ -63,25 +63,9 @@ li span {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    height: 46px;
 }
 
 
 .deleteButton:hover {
     background-color: #c82333;
-}
-
-.clearButton {
-    height: 46px
-    ;
-    padding: 10px 15px;
-    background-color: #6c757d;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-.clearButton:hover {
-    background-color: #5a6268;
 }

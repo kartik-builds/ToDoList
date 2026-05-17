@@ -47,9 +47,6 @@ taskInput.addEventListener("keydown", (e) => {
         document.querySelector(".taskButton").click();
     }
 });
-document.querySelector(".clearButton").addEventListener("click", () => {
-    const tasks = document.querySelectorAll(".taskList li");
-    tasks.forEach(task => {
-        task.remove();
-    }); 
-})
+
+
+
