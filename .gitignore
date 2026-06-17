@@ -6,3 +6,5 @@ npm-debug.log
 coverage/
 .vscode/
 server.js
+package-lock.json
+package.json
